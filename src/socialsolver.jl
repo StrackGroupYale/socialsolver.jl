@@ -1,6 +1,6 @@
 __precompile__()
 
-module socialsolver
+module SocialSolver
 
     # stdlib (standard libraries)
     using Dates
